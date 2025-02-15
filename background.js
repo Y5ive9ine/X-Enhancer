@@ -1,5 +1,5 @@
 const AI_API_URL = "https://api.aimlapi.com/chat/completions";
-const AI_API_KEY = "a17c5dc5c8d94e9a8784c34c255517e0";
+const AI_API_KEY = "your_api_key_here";
 // 模拟点击操作以发布推文
 function postTweet(tweetText) {
 
